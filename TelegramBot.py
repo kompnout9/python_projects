@@ -4,7 +4,7 @@ from aiogram.filters import CommandStart
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # Вставьте ваш токен
-BOT_TOKEN = "8851985065:AAGzNS87hPHnMVL3xN0iI8Gtpspg3xhQlmY"
+BOT_TOKEN = ""
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
