@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import CommandStart
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-# Вставьте ваш токен
+
 BOT_TOKEN = ""
 
 bot = Bot(token=BOT_TOKEN)
